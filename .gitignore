@@ -4,3 +4,9 @@
 */Manifest.toml
 tools/*
 
+*.pdf
+*.docx
+*.DS_Store
+*.jpg
+*.csv
+*.pkl
